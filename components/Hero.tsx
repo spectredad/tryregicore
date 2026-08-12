@@ -151,7 +151,7 @@ export default function Hero() {
       <div className="flex flex-col items-center px-5 text-center max-w-4xl mx-auto w-full">
         {/* Headline */}
         <h1
-          className="font-display font-medium text-ink text-balance leading-[1.06] sm:leading-[1.02] tracking-[-0.025em] mx-auto text-[32px] sm:text-[44px] md:text-[54px] mb-4 sm:mb-5"
+          className="font-display font-medium text-ink text-balance leading-[1.08] sm:leading-[1.06] tracking-[-0.02em] mx-auto text-[28px] sm:text-[38px] md:text-[46px] mb-4 sm:mb-5"
         >
           Give your lawyers their{" "}
           <em className="not-italic italic text-teal">time back.</em>
