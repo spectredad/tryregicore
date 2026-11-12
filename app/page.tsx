@@ -11,6 +11,10 @@ import FAQ from "@/components/FAQ";
 import CTABanner from "@/components/CTABanner";
 import Footer from "@/components/Footer";
 
+export const metadata = {
+  title: "Best Marketing and AI company | Regicore - if you’re looking for SEO, Local SEO, AI SEO or meta Ads near me - Regicore gets local businesses to the top of google",
+};
+
 export default function Home() {
   return (
     <main id="main">
